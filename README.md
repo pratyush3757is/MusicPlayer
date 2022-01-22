@@ -15,7 +15,7 @@ License -> https://github.com/subinps/MusicPlayer/blob/master/LICENSE
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subinps/MusicPlayer)
+[![Deploy](https://github.com/pratyush3757is/MusicPlayer/blob/master/README.md)](https://heroku.com/deploy?template=https://github.com/subinps/MusicPlayer)
 
 NOTE: Make sure you have started a VoiceChat in your Group before deploying.
 ### Deploy to VPS
